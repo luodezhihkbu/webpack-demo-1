@@ -9,9 +9,16 @@
   "license": "MIT",
   "devDependencies": {
     "css-loader": "^5.0.2",
+    "dart-sass": "^1.25.0",
+    "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.1.0",
+    "less": "^4.1.1",
+    "less-loader": "^8.0.0",
     "mini-css-extract-plugin": "^1.3.6",
+    "sass-loader": "^11.0.1",
     "style-loader": "^2.0.0",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^5.0.0",
     "webpack": "^5.21.2",
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^3.11.2"
